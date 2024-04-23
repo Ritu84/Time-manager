@@ -1,5 +1,5 @@
 # MERN Task Manager
-
+Deloyed link: https://mern-task-manager-b5br.onrender.com/ <br><br>
 A MERN application for basic tasks management.
 ![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
@@ -187,7 +187,4 @@ Inside backend folder:
   - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
   - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
 
-## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
